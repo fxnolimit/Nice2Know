@@ -9,4 +9,5 @@
 ### Agile methodologies =>
 ### DRY => 
 ### AJAX =>
+### CDN => [Find out!](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 
